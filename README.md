@@ -24,5 +24,5 @@ This software uses the following open source packages: `LBfoam` is an open-sourc
 
 `PyTorch-BayesianCNN` library by Kumar Shridhar[(github)](https://github.com/kumar-shridhar/PyTorch-BayesianCNN/tree/master) was used to implement bayeisan CNN. Bayesian convolutional neural networks is coupled with variational inference, a variant of convolutional neural networks (CNNs), in which the intractable posterior probability distributions over weights are inferred by Bayes by Backprop.
 
-##Acknowledgement:
+## Acknowledgement
 This work is supported by the Research Foundation of The State University of New York (SUNY) under grant number 1191358.
